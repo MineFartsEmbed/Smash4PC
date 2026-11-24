@@ -1,0 +1,1 @@
+﻿stb_image and stb_truetype (Sean Barrett): public domain or MIT, at your choice (see the headers).
